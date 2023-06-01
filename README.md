@@ -4,7 +4,7 @@ Este es un proyecto de una lista de tareas básica construido con React y utiliz
 
 ## Demo
 
-Puedes ver una demostración en vivo del proyecto [aquí](https://luciolazarte9.github.io/Lista-tareas-react-whit-localstorage/).
+Puedes ver una demostración en vivo del proyecto [aquí](deluxe-daffodil-ca259f.netlify.app).
 
 ## Características
 
