@@ -1,6 +1,6 @@
 ﻿# Lista de Tareas en React con LocalStorage
 
-Este es un proyecto de una lista de tareas básica construido con React y utilizando el LocalStorage para almacenar las tareas. Permite agregar, eliminar y marcar como completadas las tareas.
+Este es un proyecto de una lista de tareas básica construido con React y utilizando el LocalStorage para almacenar las tareas. Permite agregar y eliminar tareas.
 
 ## Demo
 
@@ -9,7 +9,6 @@ Puedes ver una demostración en vivo del proyecto [aquí](deluxe-daffodil-ca259f
 ## Características
 
 - Agregar nuevas tareas.
-- Marcar tareas como completadas.
 - Eliminar tareas.
 - Almacenamiento de tareas en el LocalStorage del navegador.
 - Interfaz de usuario simple y fácil de usar.
