@@ -1,0 +1,11 @@
+#root{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgb(31, 0, 0) 0%, rgb(126, 8, 8) 35%, rgb(20, 0, 2) 100%);
+}
+
+.main {
+  flex-grow: 1;
+}
